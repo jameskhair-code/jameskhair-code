@@ -15,9 +15,15 @@ Python · Calibre · Git & GitHub — with a soft spot for non-destructive, idem
 
 #### 🎓 Certifications
 
-- **[CompTIA Security+](https://www.credly.com/users/james-hair)**
-- **[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/jameskeithhair/)** (AZ-900)
-- **[Salesforce Certified](https://www.salesforce.com/trailblazer/keithhair)** — Agentforce Specialist · Tableau Architect · Tableau Server Administrator · Tableau Desktop Foundations
+<p>
+  <a href="https://www.credly.com/users/james-hair"><img src="images/security-plus.png" height="100" alt="CompTIA Security+"></a>
+  &nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/jameskeithhair/"><img src="images/azure-fundamentals.png" height="100" alt="Microsoft Certified: Azure Fundamentals (AZ-900)"></a>
+  &nbsp;
+  <a href="https://www.salesforce.com/trailblazer/keithhair"><img src="images/agentforce-specialist.png" height="100" alt="Salesforce Certified Agentforce Specialist"></a>
+  &nbsp;
+  <a href="https://www.salesforce.com/trailblazer/keithhair"><img src="images/tableau-architect.png" height="100" alt="Salesforce Certified Tableau Architect"></a>
+</p>
 
 #### 🌱 Currently
 
